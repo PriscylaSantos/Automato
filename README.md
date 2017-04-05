@@ -8,4 +8,4 @@ Após ler o arquivo _frase.txt_, o programa retorna:
 6. Sufixo e Prefixo
 7. Verifica se existe  uma subpalavra.
 
-![Imagem](/images/2017/04/imagem.png)
+![Imagem](imagem.png)
